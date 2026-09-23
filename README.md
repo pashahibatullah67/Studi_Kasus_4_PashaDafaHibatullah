@@ -36,3 +36,4 @@ Kode ini digunakan untuk menampilkan hasil akhir dari pemesanan hotel. Program a
 
 <img width="412" height="140" alt="Screenshot 2026-09-23 184851" src="https://github.com/user-attachments/assets/a2486d88-07ee-4cba-b296-f82ed4f46b62" />
 
+Output diatas tersebut menunjukkan proses pemesanan mulai dari awal memilih tipe kamar yang diinginkan hingga sampai hasil akhir. Sepeerti contohnya diatas, pengguna memilih kamar deluxe yang memiliki harga baiaya Rp. 350.000.00 per malam dan menginap selama 3 malam. Program kemudian menghitung dan menampilkan total biaya sebesar Rp. 1.050.000.00 yang pengguna harus bayar
